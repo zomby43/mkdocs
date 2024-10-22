@@ -1,0 +1,2 @@
+# mkdocs-zombot
+Obsidian docs
