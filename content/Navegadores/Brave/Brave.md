@@ -1,9 +1,13 @@
-## Titulo: Brave 
-**fecha**: 2024-09-05 
-**tags**: [#browser #navegador #util]
-
+---
+title: Brave
+draft: false
+tags:
+  - browser
+  - navegador
+  - util
+---
 # Brave
 
-Lista de cosas para Brave:
+Indice de cosas para Brave:
 
-- [[Bloat]] (Sacar Bloat de Brave)
+- [[Bloat]] (Sacar Bloat basura de Brave)

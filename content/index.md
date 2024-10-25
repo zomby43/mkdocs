@@ -2,5 +2,5 @@
 title: Bienvenido !!
 ---
 
-Aqui estaré colocando más notas, *stay tuned.*
+Aquí estaré colocando más notas, *stay tuned.*
 

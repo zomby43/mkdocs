@@ -8,7 +8,6 @@ tags:
     tools
     juegos
 ---
-
 # Linux Gaming
 ## Bazzite:
 **Bazzite is designed for Linux newcomers and enthusiasts alike** with [Steam](https://steampowered.com/) pre-installed, HDR & VRR support, improved CPU schedulers for responsive gameplay, and numerous community-developed tools and tweaks to streamline your gaming and streaming experience.  

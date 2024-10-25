@@ -1,7 +1,13 @@
-## Titulo: Backup Profile 
-**fecha**: 2024-09-05 
-**tags**: [#firefox #browser #backup #profile #navegador #zen ]
-
+---
+title: Backup Profile
+draft: false
+tags:
+  - firefox
+  - browser
+  - navegador
+  - backup
+  - profile
+---
 # Backup Profile
 
 [[Firefox]] (https://github.com/yokoffing/Betterfox/wiki/Backup#make-a-backup-profile)

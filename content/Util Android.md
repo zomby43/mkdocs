@@ -11,7 +11,6 @@ tags:
     repo,
     tools
 ---
-
 # Util Android
 ### Teclado Open Source Android (Funciona con Bitwarden):
 

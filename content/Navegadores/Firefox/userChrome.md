@@ -1,7 +1,13 @@
-## Titulo: userChrome 
-**fecha**: 2024-09-05 
-**tags**: [#editar #browser #firefox #css #navegador]
-
+---
+title: userChrome
+draft: false
+tags:
+  - editar
+  - browser
+  - firefox
+  - css
+  - navegador
+---
 # userChrome
 
 ## How to edit:
@@ -9,7 +15,4 @@
     Go to profile folder
     Create a folder named `chrome`
     And then make a blank file named `userChrome.css`
-    Then in Firefox you press Ctrl+Shift+Alt+I to live edit UI
-    Everything you do take effect imm
-
-Util para hacer [[Zen Themes]]
+    Then in Firefox you press <span style="background:#d3f8b6">Ctrl+Shift+Alt+I</span> to live edit UI

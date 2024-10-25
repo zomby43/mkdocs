@@ -1,6 +1,12 @@
-## Titulo: Bloat 
-**fecha**: 2024-09-05 
-**tags**: [#bloat #brave #browser #navegador]
+---
+title: Bloat
+draft: false
+tags:
+  - bloat
+  - brave
+  - browser
+  - navegador
+---
 # Bloat
 ### Remover Bloat [[Brave]] en Desktop
 

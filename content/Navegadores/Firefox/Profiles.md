@@ -1,7 +1,14 @@
-## Titulo: Profiles 
-**fecha**: 2024-09-05 
-**tags**: [#util #navegador #profile #respaldo #browser #firefox ]
-
+---
+title: Profiles
+draft: false
+tags:
+  - util
+  - navegador
+  - profile
+  - backup
+  - browser
+  - firefox
+---
 # Profiles
 
 _If you don't have it already: [Get Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)_
@@ -26,7 +33,7 @@ _After restarting Firefox:_
 2. **Efficiency:** unleash Firefox's ability to be fast and performant
 3. **Privacy:** protect your data without causing site breakage
 
-Configurations
+## Configurations
 
 `Fastfox`, `Securefox`, `Peskyfox`, and `Smoothfox` are guides to settings within Firefox.
 
