@@ -37,3 +37,9 @@ Ejemplo en Chrome o también [[Brave]]:
 Monitorear posibles fallas de disco duro:
 
 https://gsmartcontrol.shaduri.dev/downloads
+
+### WinCDEmu
+
+WinCDEmu is an open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer. If you have downloaded an ISO image and want to use it without burning it to a blank disc, WinCDEmu is the easiest way to do it.
+
+https://wincdemu.sysprogs.org/download/
