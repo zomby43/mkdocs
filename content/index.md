@@ -14,5 +14,9 @@ title: Bienvenido !!
 
 Aquí estaré colocando más notas, *stay tuned.*
 
+--------
+
+🎨 Paleta de Colores -> [Catppuccin Mocha](https://catppuccin.com/palette)
+
 
 
