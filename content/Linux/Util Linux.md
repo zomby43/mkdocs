@@ -39,3 +39,13 @@ https://github.com/ssleert/nitch
 Yazi (means "duck") is a terminal file manager written in Rust, based on non-blocking async I/O. It aims to provide an efficient, user-friendly, and customizable file management experience.
 
 https://github.com/sxyazi/yazi
+
+### i3
+i3 is a tiling window manager, completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers. Based upon the experiences we made when wanting to hack/fix wmii.
+
+https://i3wm.org/
+
+### Polybar
+The main purpose of Polybar is to help users create awesome status bars. It has built-in functionality to display information about the most commonly used services.
+
+https://github.com/polybar/polybar
