@@ -43,3 +43,9 @@ https://gsmartcontrol.shaduri.dev/downloads
 WinCDEmu is an open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer. If you have downloaded an ISO image and want to use it without burning it to a blank disc, WinCDEmu is the easiest way to do it.
 
 https://wincdemu.sysprogs.org/download/
+
+### Shutter Encoder
+
+Open source software without any restriction - converter all formats video|audio|image professionals codecs and standards - Windows|OS X|Linux.
+
+[https://www.shutterencoder.com/](https://www.shutterencoder.com/ "https://www.shutterencoder.com/")

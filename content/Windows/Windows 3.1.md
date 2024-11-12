@@ -6,7 +6,7 @@ tags:
 ---
 *Como instalar Win 3.1 en [DOSbox](https://www.dosbox.com/)*
 
-1. Abra cada uno de los 6 discos con 7z y extraer a una carpeta, que puede ser la carpeta C en DOSBox. 
+1. Abrir cada uno de los 6 discos con 7z y extraer a una carpeta, que puede ser la carpeta C en DOSBox. 
 2. Inicie DOSBox y montar esa carpeta como C. 
 3. Luego, configurar (SETUP) el sistema. 
 4. Y cada vez que desee utilizar Windows 3.1, 
