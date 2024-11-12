@@ -8,7 +8,7 @@ tags:
   - temas
   - editar
 ---
-## XFCE
+## XFCE / GTK3
 
 **Pastel97:**
 
@@ -39,3 +39,11 @@ Also included in this package:
 * Wine colour scheme (not shown in the screenshots)
 
 https://www.gnome-look.org/p/1173216/
+
+**PenOSmaster**
+
+![](https://i.imgur.com/awHIiz3.png)
+
+This is a dark purple GTK theme intended for people who appreciate dark/low contrast colour schemes.  
+
+www.gnome-look.org/p/1013116
