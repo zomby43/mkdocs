@@ -47,3 +47,16 @@ https://www.gnome-look.org/p/1173216/
 This is a dark purple GTK theme intended for people who appreciate dark/low contrast colour schemes.  
 
 www.gnome-look.org/p/1013116
+
+**Irixium**
+
+![](https://i.imgur.com/uB31k5R.png)
+
+Irixium is a GTK3/4 theme based off of the SGI IRIX Desktop, meant to comlpement the QT based themes of the same names in KDE Plasma, though I'm not sure if it can be used outside of this scope.  
+  
+*This theme uses the repository by sylphenix as a codebase though I have implemented my own assets to be similar.*  
+- https://github.com/sylphenix/Great-IMD-evo  
+  
+<u>*Still A WIP*  </u>
+
+https://www.pling.com/p/1802783
