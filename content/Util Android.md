@@ -12,14 +12,12 @@ tags:
     tools
 ---
 # Util Android
-### Teclado Open Source Android (Funciona con Bitwarden):
-
+## Teclado Open Source Android (Funciona con Bitwarden):
 https://github.com/florisboard/florisboard
+## Seal
+*Download videos and audio files from video platforms supported by yt-dlp*  
+https://f-droid.org/en/packages/com.junkfood.seal/index.html?ref=news.itsfoss.com
+## Loophabits
 
-### Test Adblock navegador
-
-https://d3ward.github.io/toolz/adblock
-
-### Cover your tracks, ver privacidad navegador
-
-https://coveryourtracks.eff.org
+Ayuda a trackear habitos, usar widget que tiene igual
+https://loophabits.org/
